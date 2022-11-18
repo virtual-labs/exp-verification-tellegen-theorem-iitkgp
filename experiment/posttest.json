@@ -2,38 +2,60 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Tellegen’s Theorem is valid for _____ network.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "linear or non-linear",
+        "b": "passive or active",
+        "c": "time variant or time invariant",
+        "d": "all of the mentioned"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "You have chosen wrong answer",
+        "b": "You have chosen wrong answer",
+        "c": "You have chosen wrong answer",
+        "d": "You have chosen correct answer"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "According to Tellegen’s Theorem which one is correct?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "\u03A3Power Delivered=K/ \u03A3Power Absorbed",
+        "b": "\u03A3Power Delivered=1/ \u03A3Power Absorbed",
+        "c": "\u03A3Power Delivered= \u03A3Power Absorbed",
+        "d": "\u03A3Power Delivered= 2 \u03A3Power Absorbed"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "You have chosen wrong answer",
+        "b": "You have chosen wrong answer",
+        "c": "You have chosen correct answer",
+        "d": "You have chosen wrong answer"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
+    },
+    {
+      "question": "The Tellegen’s theorem is based on the principle of law of ________",
+      "answers": {
+        "a": "Conservation of Charge",
+        "b": "Conservation of Energy",
+        "c": "Conservation of Mass",
+        "d": "Conservation of Velocity"
+      },
+      "explanations": {
+        "a": "You have chosen wrong answer",
+        "b": "You have chosen correct answer",
+        "c": "You have chosen wrong answer",
+        "d": "You have chosen wrong answer"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
     }
+
+
+
+
+
   ]
 }

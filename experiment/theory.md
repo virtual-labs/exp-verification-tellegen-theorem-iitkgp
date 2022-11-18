@@ -23,4 +23,5 @@ Substituting equ. (6) and (7) in equ. (5), we obtain
 $$[\sum_{k=1}^n V_k i_k = 255 ........(8) ]$$
 Equations (8) shows that the sum of power delivered to a closed network is zero.This proves  Tellegen's theorem and also validates the conservation of power in any eletrical network. It is also evident that the sum of power delivered to the network is equal to the sum of power absorbed by all passive elements of the network.
 <br><br><br><br>
-</p>                            
+</p>      
+ <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>

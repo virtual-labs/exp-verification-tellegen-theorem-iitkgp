@@ -1,7 +1,9 @@
 ### Procedure
 <p>
 								<h2><span style="background-color: rgb(255, 255, 255); ">Circuit Diagram:</span></h2>
+								<div align="center">
 								<p><img alt="" src="images/pic2.JPG" height="335" width="712"></p>
+								</div>
 								<p style="text-align:center">[Fig 1: Circuit diagram of experimental set-up for verification of Tellegen's theorem]</p><br>
 								<br>
 								<p>
